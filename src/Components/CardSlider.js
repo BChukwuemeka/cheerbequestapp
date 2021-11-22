@@ -1,7 +1,6 @@
-import React, {useState} from 'react'
+import {useState} from 'react'
 import  SliderData  from '../topdonors.json'
 import {FaAngleRight, FaAngleLeft} from 'react-icons/fa'
-import { set } from 'react-hook-form';
 import { CardTwo } from './Card';
 
 const CardSlider = ({items}) => {
@@ -29,7 +28,7 @@ if(!Array.isArray(items) || items.length <= 0) {
             
             {SliderData.map((item, index) => {
                 return (
-                    <div className= "{index === current ? 'slide active' : 'slide'} key={index}">
+                    <div className= {index === current ? 'slide active' : 'slide'} key={index}>
                         {index === current && ( <CardTwo classes="mr" key={`${item.id}`}>
                    <div className="cardTop">
                    

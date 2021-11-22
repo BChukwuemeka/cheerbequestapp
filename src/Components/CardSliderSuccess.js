@@ -27,7 +27,7 @@ if(!Array.isArray(items) || items.length <= 0) {
             <FaAngleRight className='right-arrow' onClick={nextSlide} />
             {SliderData.map((item, index) => {
                 return (
-                    <div className= "{index === current ? 'slide active' : 'slide'} key={index}">
+                    <div className= {index === current ? 'slide active' : 'slide'} key={index}>
                         {index === current && ( <CardTwo classes="mr" key={`${item.id}`}>
                    <div className="cardTop">
                             <div className="slideCardTwoImage">
