@@ -53,6 +53,11 @@
   },
   "devDependencies": {
     "@types/react": "^17.0.4",
+<<<<<<< HEAD
     "@types/react-router-dom": "^5.1.7"
+=======
+    "@types/react-router-dom": "^5.1.7",
+    "gh-pages": "^3.2.3"
+>>>>>>> f202274c119fa83ae7d5918c3a1ac4c9169bc1cd
   }
 }
