@@ -1,15 +1,14 @@
-import React, {useState} from 'react';
 import {useForm} from 'react-hook-form';
 import { yupResolver } from '@hookform/resolvers/yup';
 import * as yup from "yup";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faHome, faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons';
 declare module 'react';
 
 
-type FormData = {
-    name: string;
-  };
+// type FormData = {
+//     name: string;
+//   };
 
 
 const schema = yup.object().shape({

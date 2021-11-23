@@ -72,7 +72,7 @@ const CampaignIcons = () => {
          {Icons.map((item, index) => {
             return (
                <div className="icons" key={index}>
-                     <a href="#"><img src={item.image} alt="campaign-icons" /></a>
+                     <a href="cheerbequest.com"><img src={item.image} alt="campaign-icons" /></a>
                      <p>{item.title}</p>
                </div>
             );

@@ -1,6 +1,6 @@
 import { faFacebook, faTwitter, faInstagram } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { NavLink } from "./Navbar/NavbarElements";
+
 
 
 
@@ -23,13 +23,13 @@ const Footer = () => {
             <h4 className="color2">Learn more</h4>
             <ul>
                 <li>
-                    <a href="">SaveLives@Livestars</a>
+                    <a href="cheerbequest.com">SaveLives@Livestars</a>
                 </li>
                 <li>
-                    <a href="">Success Stories</a>
+                    <a href="cheerbequest.com">Success Stories</a>
                 </li>
                 <li>
-                    <a href="">FAQ</a>
+                    <a href="cheerbequest.com">FAQ</a>
                 </li>
             </ul>
 
@@ -38,46 +38,46 @@ const Footer = () => {
             <h4 className="color2">Funds for</h4>
             <ul>
                 <li>
-                    <a href="">Health</a>
+                    <a href="cheerbequest.com">Health</a>
                 </li>
                 <li>
-                    <a href="">Education</a>
+                    <a href="cheerbequest.com">Education</a>
                 </li>
                 <li>
-                    <a href="">Agriculture</a>
+                    <a href="cheerbequest.com">Agriculture</a>
                 </li>
                 <li>
-                    <a href="">Community Development</a>
+                    <a href="cheerbequest.com">Community Development</a>
                 </li>
                 <li>
-                    <a href="">Youth Empowerment</a>
+                    <a href="cheerbequest.com">Youth Empowerment</a>
                 </li>
                 <li>
-                    <a href="">Elders Intervention</a>
+                    <a href="cheerbequest.com">Elders Intervention</a>
                 </li>
                 <li>
-                    <a href="">Girls Child</a>
+                    <a href="cheerbequest.com">Girls Child</a>
                 </li>
                 <li>
-                    <a href="">Less Privilege</a>
+                    <a href="cheerbequest.com">Less Privilege</a>
                 </li>
                 <li>
-                    <a href="">Disaster Intervention</a>
+                    <a href="cheerbequest.com">Disaster Intervention</a>
                 </li>
                 <li>
-                    <a href="">Sports Support</a>
+                    <a href="cheerbequest.com">Sports Support</a>
                 </li>
                 <li>
-                    <a href="">Religion</a>
+                    <a href="cheerbequest.com">Religion</a>
                 </li>
                 <li>
-                    <a href="">Politics</a>
+                    <a href="cheerbequest.com">Politics</a>
                 </li>
                 <li>
-                    <a href="">Hospitality</a>
+                    <a href="cheerbequest.com">Hospitality</a>
                 </li>
                 <li>
-                    <a href="">Crisis-Peace Intervention</a>
+                    <a href="cheerbequest.com">Crisis-Peace Intervention</a>
                 </li>
                 
             </ul>
@@ -87,20 +87,20 @@ const Footer = () => {
             <h4 className="color2">Resources</h4>
             <ul>
                 <li>
-                    <a href="">About Us</a>
+                    <a href="cheerbequest.com">About Us</a>
                 </li>
                 <li>
-                    <a href="">Contact Us</a>
+                    <a href="cheerbequest.com">Contact Us</a>
                 </li>
                 
                 <li>
-                    <a href="">Privacy Policy</a>
+                    <a href="cheerbequest.com">Privacy Policy</a>
                 </li>
                 <li>
-                    <a href="">Terms & Conditions</a>
+                    <a href="cheerbequest.com">Terms & Conditions</a>
                 </li>
                 <li>
-                    <a href="">Partnership</a>
+                    <a href="cheerbequest.com">Partnership</a>
                 </li>
             </ul>
         </div>
@@ -108,7 +108,7 @@ const Footer = () => {
 
 <div className="copyright">
        <div>
-           <p>Copyright &copy; <a href="#" target="_blank" title="CHEER BEQUEST LIMITED">CHEER BEQUEST LIMITED</a> </p>
+           <p>Copyright &copy; <a href="cheerbequest.com" target="_blank" title="CHEER BEQUEST LIMITED">CHEER BEQUEST LIMITED</a> </p>
         </div>
             <div className="social_icons">
             

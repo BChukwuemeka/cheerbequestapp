@@ -1,7 +1,6 @@
-import React, {useState} from 'react'
+import {useState} from 'react'
 import  SliderData  from '../success.json'
 import {FaAngleRight, FaAngleLeft} from 'react-icons/fa'
-import { set } from 'react-hook-form';
 import { CardTwo } from './Card';
 
 const CardSlider2 = ({items}) => {
