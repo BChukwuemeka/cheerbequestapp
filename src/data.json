@@ -61,23 +61,7 @@
             "expirydate": "27th May 2021",
             "ctaText": "More Details",
             "rating": "7.9"
-          },
-
-          {
-            "id": 5,
-            "title": "Help for Medical Surgery",
-            "image": "/images/Rectangle 63.png",
-            "desc": "Gru, a criminal mastermind, adopts three orphans as pawns to carry out the biggest heist in history. His life takes an unexpected turn when the little girls see him as their potential father.",
-            "shrtdesc": "Hi i am Jude, Help me raise funds",
-            "alt": "Despicable Me Movie",
-            "category": "Health",
-            "amountraised": "#310,000",
-            "fundinggoal": "#22,000,000",
-            "location": "Abuja, Nigeria",
-            "expirydate": "27th May 2021",
-            "ctaText": "More Details",
-            "rating": "8.6"
-                }
+          }
           
          
 

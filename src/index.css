@@ -663,7 +663,13 @@ letter-spacing: 0em;
 
 .list {
 display: flex;
-justify-content: space-around;
+justify-content: center;
+}
+
+.Row{
+  width: 30%;
+  padding: auto;
+  
 }
 
 .list a {

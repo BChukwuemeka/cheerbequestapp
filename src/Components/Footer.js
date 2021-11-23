@@ -12,98 +12,101 @@ const Footer = () => {
     return ( 
         <footer className="footer">
 
-        <div className="footer-header">
-            <h3 className="color2">CHEER BEQUEST LIMITED</h3>
-            <p>  The Crowdfunding that got you covered, Always Secure and Transparent.</p>
-              <p>  Get started with us today and raise funds for your emergencies and dreams</p>
-        </div>
+                    <div className="footer-header">
+                        <h3 className="color2">CHEER BEQUEST LIMITED</h3>
+                        <p>  The Crowdfunding that got you covered, Always Secure and Transparent.</p>
+                        <p>  Get started with us today and raise funds for your emergencies and dreams</p>
+                    </div>
 
-        <div className="list">
-        <div className="learn-more">
-            <h4 className="color2">Learn more</h4>
-            <ul>
-                <li>
-                    <a href="cheerbequest.com">SaveLives@Livestars</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Success Stories</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">FAQ</a>
-                </li>
-            </ul>
+        <div className="list Col">
+                        <div className="learn-more Row">
+                            <h4 className="color2">Learn more</h4>
+                            <ul>
+                                <li>
+                                    <a href="cheerbequest.com">SaveLives@Livestars</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Success Stories</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">FAQ</a>
+                                </li>
+                            </ul>
 
-        </div>
-        <div className="funds-for">
-            <h4 className="color2">Funds for</h4>
-            <ul>
-                <li>
-                    <a href="cheerbequest.com">Health</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Education</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Agriculture</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Community Development</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Youth Empowerment</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Elders Intervention</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Girls Child</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Less Privilege</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Disaster Intervention</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Sports Support</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Religion</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Politics</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Hospitality</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Crisis-Peace Intervention</a>
-                </li>
-                
-            </ul>
+                        </div>
 
-        </div>
-        <div className="resources">
-            <h4 className="color2">Resources</h4>
-            <ul>
-                <li>
-                    <a href="cheerbequest.com">About Us</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Contact Us</a>
-                </li>
-                
-                <li>
-                    <a href="cheerbequest.com">Privacy Policy</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Terms & Conditions</a>
-                </li>
-                <li>
-                    <a href="cheerbequest.com">Partnership</a>
-                </li>
-            </ul>
-        </div>
+                        <div className="funds-for Row">
+                            <h4 className="color2">Funds for</h4>
+                            <ul>
+                                <li>
+                                    <a href="cheerbequest.com">Health</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Education</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Agriculture</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Community Development</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Youth Empowerment</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Elders Intervention</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Girls Child</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Less Privilege</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Disaster Intervention</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Sports Support</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Religion</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Politics</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Hospitality</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Crisis-Peace Intervention</a>
+                                </li>
+                                
+                            </ul>
+
+                        </div>
+
+
+                        <div className="resources Row">
+                            <h4 className="color2">Resources</h4>
+                            <ul>
+                                <li>
+                                    <a href="cheerbequest.com">About Us</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Contact Us</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="cheerbequest.com">Privacy Policy</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Terms & Conditions</a>
+                                </li>
+                                <li>
+                                    <a href="cheerbequest.com">Partnership</a>
+                                </li>
+                            </ul>
+                        </div>
     </div>
 
 <div className="copyright">
